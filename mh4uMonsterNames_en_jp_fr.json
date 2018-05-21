@@ -1,0 +1,379 @@
+
+[{
+            "EN": "Seltas",
+            "JP": "アルセルタス",
+            "FR": "Seltas"
+    },
+    {
+            "EN": "Desert Seltas",
+            "JP": "アルセルタス亜種",
+            "FR": "Seltas du Désert"
+    },
+    {
+            "EN": "Seltas Queen",
+            "JP": "ゲネル・セルタス",
+            "FR": "Reine Seltas"
+    },
+    {
+            "EN": "Desert Seltas Queen",
+            "JP": "ゲネル・セルタス亜種",
+            "FR": "Reine Seltas du désert"
+    },
+    {
+            "EN": "Nerscylla",
+            "JP": "ネルスキュラ",
+            "FR": "Nerscylla"
+    },
+    {
+            "EN": "Shrouded Nerscylla",
+            "JP": "ネルスキュラ亜種",
+            "FR": "Nerscylla Spectrale"
+    },
+    {
+            "EN": "Cephadrome",
+            "JP": "ドスガレオス",
+            "FR": "Cephadrome"
+    },
+    {
+            "EN": "Great Jaggi",
+            "JP": "ドスジャギィ",
+            "FR": "Grand Jaggi"
+    },
+    {
+            "EN": "Velocidrome",
+            "JP": "ドスランポス",
+            "FR": "Velocidrome"
+    },
+    {
+            "EN": "Gendrome",
+            "JP": "ドスゲネポス",
+            "FR": "Gendrome"
+    },
+    {
+            "EN": "Iodrome",
+            "JP": "ドスイーオス",
+            "FR": "Iodrome"
+    },
+    {
+            "EN": "Yian Kut-Ku",
+            "JP": "イャンクック",
+            "FR": "Yian Kut-Ku"
+    },
+    {
+            "EN": "Blue Yian Kut-Ku",
+            "JP": "イャンクック亜種",
+            "FR": "Yian Kut-Ku Bleu"
+    },
+    {
+            "EN": "Gypceros",
+            "JP": "ゲリョス",
+            "FR": "Gypceros"
+    },
+    {
+            "EN": "Purple Gypceros",
+            "JP": "ゲリョス（亜種）",
+            "FR": "Gypceros Améthyste"
+    },
+    {
+            "EN": "Yian Garuga",
+            "JP": "イャンガルルガ",
+            "FR": "Yian Garuga"
+    },
+    {
+            "EN": "Daimyo Hermitaur",
+            "JP": "ダイミョウザザミ",
+            "FR": "Hermitaur Daimyo"
+    },
+    {
+            "EN": "Plum D.Hermitaur",
+            "JP": "ダイミョウザザミ（亜種）",
+            "FR": "Hermitaur Daimyo Prune"
+    },
+    {
+            "EN": "Kecha Wacha",
+            "JP": "ケチャワチャ",
+            "FR": "Kecha-Wacha"
+    },
+    {
+            "EN": "Ash Kecha Wacha",
+            "JP": "ケチャワチャ亜種",
+            "FR": "Kecha-Wacha Blanc"
+    },
+    {
+            "EN": "Lagombi",
+            "JP": "ウルクスス",
+            "FR": "Lagombi"
+    },
+    {
+            "EN": "Congalala",
+            "JP": "ババコンガ",
+            "FR": "Congalala"
+    },
+    {
+            "EN": "Emerald Congalala",
+            "JP": "ババコンガ亜種",
+            "FR": "Congalala Emeraude"
+    },
+    {
+            "EN": "Rajang",
+            "JP": "ラージャン",
+            "FR": "Rajang"
+    },
+    {
+            "EN": "Furious Rajang",
+            "JP": "激昂したラージャン",
+            "FR": "Rajang Enragé"
+    },
+    {
+            "EN": "Tetsucabra",
+            "JP": "テツカブラ",
+            "FR": "Tetsucabra"
+    },
+    {
+            "EN": "Berserk Tetsucabra",
+            "JP": "テツカブラ亜種",
+            "FR": "Tetsucabra Féroce"
+    },
+    {
+            "EN": "Zamtrios",
+            "JP": "ザボアザギル",
+            "FR": "Zamtrios"
+    },
+    {
+            "EN": "Tigerstripe Zamtrios",
+            "JP": "ザボアザギル亜種",
+            "FR": "Zamtrios Tigré"
+    },
+    {
+            "EN": "Najarala",
+            "JP": "ガララアジャラ",
+            "FR": "Najarala"
+    },
+    {
+            "EN": "Tidal Najarala",
+            "JP": "ガララアジャラ亜種",
+            "FR": "Najarala du Déluge"
+    },
+    {
+            "EN": "Brachydios",
+            "JP": "ブラキディオス",
+            "FR": "Brachydios"
+    },
+    {
+            "EN": "Raging Brachydios",
+            "JP": "猛り爆ぜるブラキディオス",
+            "FR": "Brachydios Critique"
+    },
+    {
+            "EN": "Deviljho",
+            "JP": "イビルジョー",
+            "FR": "Deviljho"
+    },
+    {
+            "EN": "Savage Deviljho",
+            "JP": "怒り喰らうイビルジョー",
+            "FR": "Deviljho Affamé"
+    },
+    {
+            "EN": "Khezu",
+            "JP": "フルフル",
+            "FR": "Khezu"
+    },
+    {
+            "EN": "Red Khezu",
+            "JP": "フルフル（亜種）",
+            "FR": "Khezu grenat"
+    },
+    {
+            "EN": "Basarios",
+            "JP": "バサルモス",
+            "FR": "Basarios"
+    },
+    {
+            "EN": "Ruby Basarios",
+            "JP": "バサルモス亜種",
+            "FR": "Basarios Rubis"
+    },
+    {
+            "EN": "Gravios",
+            "JP": "グラビモス",
+            "FR": "Gravios"
+    },
+    {
+            "EN": "Black Gravios",
+            "JP": "グラビモス（亜種）",
+            "FR": "Gravios onyx"
+    },
+    {
+            "EN": "Rathian",
+            "JP": "リオレイア",
+            "FR": "Rathian"
+    },
+    {
+            "EN": "Pink Rathian",
+            "JP": "リオレイア（亜種）",
+            "FR": "Rathian sakura"
+    },
+    {
+            "EN": "Gold Rathian",
+            "JP": "リオレイア（希少種）",
+            "FR": "Rathian Or"
+    },
+    {
+            "EN": "Rathalos",
+            "JP": "リオレウス",
+            "FR": "Rathalos"
+    },
+    {
+            "EN": "Azure Rathalos",
+            "JP": "リオレウス亜種",
+            "FR": "Rathalos Azur"
+    },
+    {
+            "EN": "Silver Rathalos",
+            "JP": "リオレウス（希少種）",
+            "FR": "Rathalos Argent"
+    },
+    {
+            "EN": "Tigrex",
+            "JP": "ティガレックス",
+            "FR": "Tigrex"
+    },
+    {
+            "EN": "Brute Tigrex",
+            "JP": "ティガレックス亜種",
+            "FR": "Tigrex Berserk"
+    },
+    {
+            "EN": "Molten Tigrex",
+            "JP": "ティガレックス希少種",
+            "FR": "Tigrex Magma"
+    },
+    {
+            "EN": "Diablos",
+            "JP": "ディアブロス",
+            "FR": "Diablos"
+    },
+    {
+            "EN": "Black Diablos",
+            "JP": "ディアブロス（亜種）",
+            "FR": "Diablos Noir"
+    },
+    {
+            "EN": "Monoblos",
+            "JP": "モノブロス",
+            "FR": "Monoblos"
+    },
+    {
+            "EN": "White Monoblos",
+            "JP": "モノブロス亜種",
+            "FR": "Monoblos Ivoire"
+    },
+    {
+            "EN": "Seregios",
+            "JP": "セルレギオス",
+            "FR": "Seregios"
+    },
+    {
+            "EN": "Gore Magala",
+            "JP": "ゴア·マガラ",
+            "FR": "Gore Malaga"
+    },
+    {
+            "EN": "Chaotic Gore Magala",
+            "JP": "渾沌に呻くゴア・マガラ",
+            "FR": "Gore Magala du chaos"
+    },
+    {
+            "EN": "Akantor",
+            "JP": "アカムトルム",
+            "FR": "Akantor"
+    },
+    {
+            "EN": "Ukanlos",
+            "JP": "ウカムルバス",
+            "FR": "Ukanlos"
+    },
+    {
+            "EN": "Zinogre",
+            "JP": "ジンオウガ",
+            "FR": "Zinogre"
+    },
+    {
+            "EN": "Stygian Zinogre",
+            "JP": "ジンオウガ亜種",
+            "FR": "Zinogre Stygien"
+    },
+    {
+            "EN": "Kirin",
+            "JP": "キリン",
+            "FR": "Kirin"
+    },
+    {
+            "EN": "Oroshi Kirin",
+            "JP": "キリン亜種",
+            "FR": "Kirin Oroshi"
+    },
+    {
+            "EN": "Shagaru Magala",
+            "JP": "シャガルマガラ",
+            "FR": "Shagaru Magala"
+    },
+    {
+            "EN": "Dah'ren Mohran",
+            "JP": "ダレン・モーラン",
+            "FR": "Dah'ren Mohran"
+    },
+    {
+            "EN": "Kushala Daora",
+            "JP": "クシャルダオラ",
+            "FR": "Kushala Daora"
+    },
+    {
+            "EN": "Rusted Kushala Daora",
+            "JP": "錆びたクシャルダオラ",
+            "FR": "Kushala Daora Rouillé"
+    },
+    {
+            "EN": "Teostra",
+            "JP": "テオ・テスカトル",
+            "FR": "Teostra"
+    },
+    {
+            "EN": "Chameleos",
+            "JP": "オオナズチ",
+            "FR": "Chameleos"
+    },
+    {
+            "EN": "Dalamadur",
+            "JP": "ダラ・アマデュラ",
+            "FR": "Dalamadur"
+    },
+    {
+            "EN": "Shah Dalamadur",
+            "JP": "ダラ・アマデュラ亜種",
+            "FR": "Dalamadur Shah"
+    },
+    {
+            "EN": "Gogmazios",
+            "JP": "ゴグマジオス",
+            "FR": "Gogmazios"
+    },
+    {
+            "EN": "Fatalis",
+            "JP": "ミラボレアス",
+            "FR": "Fatalis"
+        
+    },
+    {
+            "EN": "Crimson Fatalis",
+            "JP": "ミラボレアス（紅龍）",
+            "FR": "Fatalis Pourpre"
+        
+    },
+    {
+            "EN": "White Fatalis",
+            "JP": "ミラボレアス亜種(祖龍)",
+            "FR": "Fatalis Blanc"
+        
+    }]
