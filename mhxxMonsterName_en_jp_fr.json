@@ -1,0 +1,560 @@
+[
+    {
+            "EN": "Agnaktor",
+            "JP": "アグナコトル",
+            "FR": "Agnaktor",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/4/4a/MHGen-Agnaktor_Render_001.png/revision/latest?cb=20160412155353&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Akantor",
+            "JP": "アカムトルム",
+            "FR": "Akantor",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/8/8b/MH4-Akantor_Render_001.png/revision/latest?cb=20140716170556&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Arzuros",
+            "JP": "アオアシラ",
+            "FR": "Arzuros",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/75/MHGen-Arzuros_Render_001.png/revision/latest?cb=20160403190036&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Redhelm Arzuros",
+            "JP": "紅兜アオアシラ",
+            "FR": "Arzuros Crâne-Ardent",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/d/dc/MHGen-Redhelm_Arzuros_Render_001.png/revision/latest?cb=20160622200826&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Astalos",
+            "JP": "ライゼクス",
+            "FR": "Astalos",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/c/cf/MHX-Raizekusu_Render_001.png/revision/latest?cb=20151113231407&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Azurebolt Astalos",
+            "JP": "青電主ライゼクス",
+            "FR": "Astalos Exotique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/2/24/MHXX-Deviant_Astalos_Render_001.png/revision/latest?cb=20161209070159&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Atlal Ka",
+            "JP": "アトラル・カ",
+            "FR": "Atlal Ka",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/39/MHXX-Atoraru_Ka_Render_001.png/revision/latest?cb=20170430212634&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Barioth",
+            "JP": "ベリオロス",
+            "FR": "Barioth",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/e/e9/MHXX-Barioth_Render_001.png/revision/latest?cb=20161104160011&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Barroth",
+            "JP": "ボルボロス",
+            "FR": "Barroth",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/5/56/MHW-Barroth_Render_001.png/revision/latest?cb=20171012152627&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Basarios",
+            "JP": "バサルモス",
+            "FR": "Basarios",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/6/6e/Basarios_MH4_Render.png/revision/latest?cb=20140625172444&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Blangonga",
+            "JP": "ドドブランゴ",
+            "FR": "Blangonga",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/5/51/MHGen-Blangonga_Render_001.png/revision/latest?cb=20160403185908&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Brachydios",
+            "JP": "ブラキディオス",
+            "FR": "Brachydios",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/8/8f/MH4-Brachydios_Render_001.png/revision/latest?cb=20140524190101&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Raging Brachydios",
+            "JP": "猛り爆ぜるブラキディオス",
+            "FR": "Brachydios Critique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/b/bb/MH4U-Critical_Brachydios_Render_001.png/revision/latest?cb=20150131172235&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Bulldrome",
+            "JP": "ドスファンゴ",
+            "FR": "Bulldrome",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/6/62/MHGen-Bulldrome_Render_001.png/revision/latest?cb=20160613201356&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Cephadrome",
+            "JP": "ドスガレオス",
+            "FR": "Cephadrome",
+            "img": "https://vignette.wikia.nocookie.net/monsterhunter/images/f/f2/MHO-Cephadrome_Render_001.png/revision/latest?cb=20150504151051"
+    },
+    {
+            "EN": "Congalala",
+            "JP": "ババコンガ",
+            "FR": "Congalala",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/2/2d/Conagala_2.png/revision/latest?cb=20140720124132&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Daimyo Hermitaur",
+            "JP": "ダイミョウザザミ",
+            "FR": "Hermitaur Daimyo",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/b/b3/MH4U-Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20140823181736&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Stonefist Hermitaur",
+            "JP": "矛砕ダイミョウザザミ",
+            "FR": "Hermitaur Poing-fer",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/4/4c/MHGen-Spearbreaker_Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20160622090300&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Deviljho",
+            "JP": "イビルジョー",
+            "FR": "Deviljho",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/c/cb/MHW-Deviljho_Render_001.png/revision/latest?cb=20180105145209&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Savage Deviljho",
+            "JP": "怒り喰らうイビルジョー",
+            "FR": "Deviljho Affamé",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/8/88/MH4-Savage_Deviljho_and_Great_Jaggi_Render_001.png/revision/latest?cb=20150102130051&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Diablos",
+            "JP": "ディアブロス",
+            "FR": "Diablos",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/75/MHW-Diablos_Render_001.png/revision/latest?cb=20180201140345&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Massacre Demon Diablos",
+            "JP": "鏖魔ディアブロス",
+            "FR": "Diablos Exotique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/5/51/MHXX-Deviant_Diablos_Render_002.png/revision/latest?cb=20170210185943&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Duramboros",
+            "JP": "ドボルベルク",
+            "FR": "Duramboros",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/7c/MHGen-Duramboros_Render_001.png/revision/latest?cb=20160403190245&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gammoth",
+            "JP": "ガムート",
+            "FR": "Gammoth",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/3d/MHX-Gamuto_Render_001.png/revision/latest?cb=20151205184041&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Silver Ridge Gammoth",
+            "JP": "銀嶺ガムート",
+            "FR": "Gammoth Exotique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/1/1f/MHXX-Deviant_Gammoth_Render_001.png/revision/latest?cb=20161209070200&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gendrome",
+            "JP": "ドスゲネポス",
+            "FR": "Gendrome",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/0/0e/MH4-Gendrome_and_Genprey_Render_001.png/revision/latest?cb=20140821181859&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Giadrome",
+            "JP": "ドスギアノス",
+            "FR": "Giadrome",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/1/12/MHXX-Giadrome_Render_001.png/revision/latest?cb=20170509145421&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Glavenus",
+            "JP": "ディノバルド",
+            "FR": "Glavenus",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/9/9a/MHX-Dinovaldo_Render_001.png/revision/latest?cb=20150911163603&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Hellblade Glavenus",
+            "JP": "燼滅刃ディノバルド",
+            "FR": "Glavenus Lame-chaos",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/31/MHGen-Hellblade_Glavenus_Render_002.png/revision/latest?cb=20161209070200&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gore Magala",
+            "JP": "ゴア・マガラ",
+            "FR": "Gore Magala",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/72/Gore_magala.png/revision/latest?cb=20140709161311&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Chaotic Gore Magala",
+            "JP": "渾沌に呻くゴア・マガラ",
+            "FR": "Gore Magala du chaos",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/76/MH4U-Chaos_Gore_Magala_Render_001.png/revision/latest?cb=20150131175033&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gravios",
+            "JP": "グラビモス",
+            "FR": "Gravios",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/2/20/MH4-Gravios_Render_001.png/revision/latest?cb=20140822082630&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Great Maccao",
+            "JP": "ドスマッカォ",
+            "FR": "Grand Maccao",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/0/0d/MHX-Great_Maccau_Render_001.png/revision/latest?cb=20151112172703&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gypceros",
+            "JP": "ゲリョス",
+            "FR": "Gypceros",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/9/98/MH4-Gypceros_Render_001.png/revision/latest?cb=20140828105748&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Malfestio",
+            "JP": "ホロロホルル",
+            "FR": "Malfestio",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/0/01/MHX-Hororohoruru_Render_001.png/revision/latest?cb=20151112065324&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Hidden Haze Malfestio",
+            "JP": "朧隠ホロロホルル",
+            "FR": "Malfestio exotique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/c/c6/MHXX-Deviant_Malfestio_Render_001.png/revision/latest?cb=20170208100338&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Iodrome",
+            "JP": "ドスイーオス",
+            "FR": "Iodrome",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/b/b5/MH4-Iodrome_and_Ioprey_Render_001.png/revision/latest?cb=20140828112939&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Kecha Wacha",
+            "JP": "ケチャワチャ",
+            "FR": "Kecha-Wacha",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/c/cb/MH4-Kecha_Wacha_Render_001.png/revision/latest?cb=20140823095505&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Khezu",
+            "JP": "フルフル",
+            "FR": "Khezu",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/3e/MH4-Khezu_Render_001.png/revision/latest?cb=20140924175618&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Lagiacrus",
+            "JP": "ラギアクルス",
+            "FR": "Lagiacrus",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/6/64/MHGen-Lagiacrus_Render_001.png/revision/latest?cb=20170319145623&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Lagombi",
+            "JP": "ウルクスス",
+            "FR": "Lagombi",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/9/9e/MH4-Lagombi_Render_001.png/revision/latest?cb=20150110202208&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Snowbaron Lagombi",
+            "JP": "大雪主ウルクスス",
+            "FR": "Lagombi Maître-neige",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/4/47/MHGen-Snowbaron_Lagombi_Render_001.png/revision/latest?cb=20160622095549&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Lavasioth",
+            "JP": "ヴォルガノス",
+            "FR": "Lavasioth",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/e/e4/MHGen-Lavasioth_Render_001.png/revision/latest?cb=20160403190317&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Mizutsune",
+            "JP": "タマミツネ",
+            "FR": "Mizutsune",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/31/MHX-Tamamitsune_Artwork_001.png/revision/latest?cb=20151111164621&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Heavenly Eye Mizutsune",
+            "JP": "天眼タマミツネ",
+            "FR": "Mizutsune exotique",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/c/cc/MHXX-Deviant_Mizutsune_Render_001.png/revision/latest?cb=20161209070200&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Najarala",
+            "JP": "ガララアジャラ",
+            "FR": "Najarala",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/4/4e/MH4-Najarala_Render_001.png/revision/latest?cb=20140711151600&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Nargacuga",
+            "JP": "ナルガクルガ",
+            "FR": "Nargacuga",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/74/MHGen-Nargacuga_Render_001.png/revision/latest?cb=20160403191038&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Silverwind Nargacuga",
+            "JP": "白疾風ナルガクルガ",
+            "FR": "Nargacuga Vent-acier",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/0/01/MHGen-Silverwind_Nargacuga_Render_001.png/revision/latest?cb=20160622073118&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Nerscylla",
+            "JP": "ネルスキュラ",
+            "FR": "Nerscylla",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/76/MH4-Nerscylla_Render_001.png/revision/latest?cb=20141021193307&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Nibelsnarf",
+            "JP": "ハプルボッカ",
+            "FR": "Nibelsnarf",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/d/d3/MHGen-Nibelsnarf_Render_001.png/revision/latest?cb=20160813172704&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Plesioth",
+            "JP": "ガノトトス",
+            "FR": "Plesioth",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/a/ac/MHGen-Plesioth_Render_001.png/revision/latest?cb=20160403190827&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Rajang",
+            "JP": "ラージャン",
+            "FR": "Rajang",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/2/2a/Rajang_MH4_Render.png/revision/latest?cb=20140909181204&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Furious Rajang",
+            "JP": "激昂したラージャン",
+            "FR": "Rajang enragé",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/6/68/MH4-Rajang_Render_002.png/revision/latest?cb=20140909180705&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Rathalos",
+            "JP": "リオレウス",
+            "FR": "Rathalos",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/6/60/MHW-Rathalos_Render_001.png/revision/latest?cb=20171205162113&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Dreadking Rathalos",
+            "JP": "黒炎王リオレウス",
+            "FR": "Rathalos Roi-enfer",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/b/b9/MHGen-Black_Flame_King_Rathalos_Render_001.png/revision/latest?cb=20160604104703&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Silver Rathalos",
+            "JP": "リオレウス希少種",
+            "FR": "Rathalos d'argent",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/3/39/MH4-Silver_Rathalos_Render_001.png/revision/latest?cb=20150114025201&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Rathian",
+            "JP": "リオレイア",
+            "FR": "Rathian",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/8/84/MHW-Rathian_Render_001.png/revision/latest?cb=20180201140407&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Dreadqueen Rathian",
+            "JP": "紫毒姫リオレイア",
+            "FR": "Rathian Reine-poison",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/31/MHX-Rathian_Variant.png/revision/latest?cb=20151115155517&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Gold Rathian",
+            "JP": "リオレイア希少種",
+            "FR": "Rathian d'or",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/c/c2/MH4-Gold_Rathian_Render_001.png/revision/latest?cb=20140822084607&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Royal Ludroth",
+            "JP": "ロアルドロス",
+            "FR": "Ludroth Royal",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/3/32/MHGen-Royal_Ludroth_Render_001.png/revision/latest?cb=20160403190206&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Seltas",
+            "JP": "アルセルタス",
+            "FR": "Seltas",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/a/a5/400px-MH4-Seltas_Render_001-1-.png/revision/latest?cb=20141011071322&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Seltas Queen",
+            "JP": "ゲネル・セルタス",
+            "FR": "Reine Seltas",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/b/be/MH4-Seltas_Queen_Render_001.png/revision/latest?cb=20140711201456&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Seregios",
+            "JP": "セルレギオス",
+            "FR": "Seregios",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/1/13/MH4U-Seruregiosu_Render_001.png/revision/latest?cb=20140717185554&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Shogun Ceanataur",
+            "JP": "ショウグンギザミ",
+            "FR": "Ceanataur Shogun",
+            "img": "https://vignette.wikia.nocookie.net/mogapedia/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20160403190005&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Armor Shredder Shogun Ceanataur",
+            "JP": "鎧裂ショウグンギザミ",
+            "FR": "Ceanataur Shogun exotique",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/d/d0/MHXX-Deviant_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20170214181001&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Tetsucabra",
+            "JP": "テツカブラ",
+            "FR": "Tetsucabra",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/0/08/MH4-Tetsucabra_Render_001.png/revision/latest?cb=20140822083237&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Drilltusk Tetsucabra",
+            "JP": "岩穿テツカブラ",
+            "FR": "Tetsucabra Féroce",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/7/78/MH4U-Tetsucabra_Subspecies_Render_001.png/revision/latest?cb=20141115222843&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Tigrex",
+            "JP": "ティガレックス",
+            "FR": "Tigrex",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/0/0c/MH4-Tigrex_Render_001.png/revision/latest?cb=20140823181715&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Grimclaw Tigrex",
+            "JP": "荒鉤爪ティガレックス",
+            "FR": "Tigrex Griffe-sombre",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/a/a7/MHX-Ruinous_Hook_Claw_Tigrex_Render_001.png/revision/latest?cb=20160306153305&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Ukanlos",
+            "JP": "ウカムルバス",
+            "FR": "Ukanlos",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/3/33/MHFU-Ukanlos_Render_001.png/revision/latest?cb=20140922104135&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Uragaan",
+            "JP": "ウラガンキン",
+            "FR": "Uragaan",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/5/52/MHW-Uragaan_Render_001.png/revision/latest?cb=20180224120219&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Crystalbeard Uragaan",
+            "JP": "宝纏ウラガンキン",
+            "FR": "Uragaan Roi-cristal",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/f/fe/MHGen-Treasure_Clad_Uragaan_Render_001.png/revision/latest?cb=20160622093231&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Velocidrome",
+            "JP": "ドスランポス",
+            "FR": "Velocidrome",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/7/71/MH4-Velocidrome_and_Velociprey_Render_001.png/revision/latest?cb=20140828110519&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Volvidon",
+            "JP": "ラングロトラ",
+            "FR": "Volvidon",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/6/6b/MHGen-Volvidon_Render_001.png/revision/latest?cb=20160403190122&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Yian Garuga",
+            "JP": "イャンガルルガ",
+            "FR": "Yian Garuga",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/e/ea/MH4-Yian_Garuga_Render_001.png/revision/latest?cb=20140822082718&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Deadeye Yian Garuga",
+            "JP": "隻眼イャンガルルガ",
+            "FR": "Yian Garuga Œil-mort",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/d/d8/MHGen-One-Eyed_Yian_Garuga_Render_001.png/revision/latest?cb=20160622074851&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Yian Kut-Ku",
+            "JP": "イャンクック",
+            "FR": "Yian Kut-Ku",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/c/ce/MH4-Yian_Kut-Ku_and_Konchu_Render_001.png/revision/latest?cb=20150110124837&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Zamtrios",
+            "JP": "ザボアザギル",
+            "FR": "Zamtrios",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/8/89/MH4-Zamtrios_Render_001.png/revision/latest?cb=20140823095615&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Zinogre",
+            "JP": "ジンオウガ",
+            "FR": "Zinogre",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/0/04/MH4-Zinogre_Render_001.png/revision/latest?cb=20140915112320&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Thunderlord Zinogre",
+            "JP": "金雷公ジンオウガ",
+            "FR": "Zinogre Feu-du-ciel",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/f/fe/MHGen-Thunderlord_Zinogre_Render_001.png/revision/latest?cb=20160622070749&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Alatreon",
+            "JP": "アルバトリオン",
+            "FR": "Alatreon",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/0/0b/Albatrion_Custom_Render.png/revision/latest?cb=20130201170341&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Amatsu",
+            "JP": "アマツマガツチ",
+            "FR": "Amatsu",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/c/cd/MHX-Amatsumagatsuchi_Render_001.png/revision/latest?cb=20151121160847&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Chameleos",
+            "JP": "オオナズチ",
+            "FR": "Chameleos",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/b/b3/Chameleos2.png/revision/latest?cb=20140923102008&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Fatalis",
+            "JP": "ミラボレアス",
+            "FR": "Fatalis",
+            "img":"https://vignette.wikia.nocookie.net/monsterhunter/images/b/be/Fatalis1.png/revision/latest?cb=20100110163542&format=original"
+    },
+    {
+            "EN": "Crimson Fatalis",
+            "JP": "ミラボレアス（紅龍）",
+            "FR": "Fatalis Pourpre",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/a/ac/1stGen_and_2ndGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20140925185400&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "White Fatalis",
+            "JP": "ミラボレアス(祖龍)",
+            "FR": "Fatalis Blanc",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/2/2f/2ndGen-White_Fatalis_Render_001.png/revision/latest?cb=20140924175343&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Kirin",
+            "JP": "キリン",
+            "FR": "Kirin",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/f/f5/MHW-Kirin_Render_001.png/revision/latest?cb=20180217145445&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Kushala Daora",
+            "JP": "クシャルダオラ",
+            "FR": "Kushala Daora",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/0/00/MHW-Kushala_Daora_Render_001.png/revision/latest?cb=20180111183557&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Lao-Shan Lung",
+            "JP": "ラオシャンロン",
+            "FR": "Lao-Shan Lung",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/4/4e/MHXX-Lao-Shan_Lung_Render_001.png/revision/latest?cb=20170112065342&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Nakarkos",
+            "JP": "オストガロア",
+            "FR": "Nakarkos",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/8/81/MHGen-Nakarkos_Render_003.png/revision/latest?cb=20160709171651&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Shagaru Magala",
+            "JP": "シャガルマガラ",
+            "FR": "Shagaru Magala",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/b/be/MH4-Shagaru_Magala_Render_001.png/revision/latest?cb=20160609154410&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Teostra",
+            "JP": "テオ・テスカトル",
+            "FR": "Teostra",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/e/e0/MHW-Teostra_Render_001.png/revision/latest?cb=20180111183559&format=original&path-prefix=fr"
+    },
+    {
+            "EN": "Valphalk",
+            "JP": "バルファルク",
+            "FR": "Valphalk",
+            "img":"https://vignette.wikia.nocookie.net/mogapedia/images/7/7f/MHXX-Barufaruku_Render_002.png/revision/latest?cb=20170210185840&format=original&path-prefix=fr"
+    }
+]
